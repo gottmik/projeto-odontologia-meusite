@@ -55,6 +55,7 @@
 }
 
 .b-3 img {
+   width: 100%;
    animation-name: deslizar;
    animation-duration: 1.5s;
    max-width: 414px;

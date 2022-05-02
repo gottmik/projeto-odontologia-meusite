@@ -11,10 +11,10 @@
 }
 
 .b-1{
-    height: 45%;
+    height: 25%;
     width: 100%;
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: center;
 }
 
